@@ -1,0 +1,1 @@
+print "Bienvenidos al curso de Python de la Plataforma Educativa de ESET"
